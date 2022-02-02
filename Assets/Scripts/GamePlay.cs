@@ -49,10 +49,6 @@ public class GamePlay : MonoBehaviour
         }
         else
         {
-            if (inputAnswer.text == answer[orderQuiz])
-            {
-                score += 20;
-            }
             notification.gameObject.SetActive(true);
             bankQuiz.gameObject.SetActive(false);
             btnReload.gameObject.SetActive(true);
