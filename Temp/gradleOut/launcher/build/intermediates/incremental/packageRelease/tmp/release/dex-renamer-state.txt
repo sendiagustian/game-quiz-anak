@@ -1,0 +1,4 @@
+#Wed Feb 02 23:52:23 WIB 2022
+base.0=/Users/behumble/Documents/Projects/UnityProject/Game Quiz Anak/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

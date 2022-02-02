@@ -1,0 +1,2 @@
+my/id/sendiagustian/BuildConfig.java
+ my.id.sendiagustian.BuildConfig

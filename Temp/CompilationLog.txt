@@ -1,0 +1,26 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f2d4ee482e1844c3e8ef5f472a9f6a9f
+# Starting compiling UnityEngine.UI.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c206f5d6053c84fc49a002e0d7c9753f
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-521fe3a118fff4d8fb0333412ece237b
+# Starting compiling Unity.2D.PixelPerfect.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-dce695ca1f5d2456b810a40796eb27c2
+# Starting compiling Unity.Timeline.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8af21236af1e94933bfceb138af3e94d
+# Starting compiling Unity.TextMeshPro.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d313432339e3b40cdb03df4f9b308ff1
+# Starting compiling Unity.Mathematics.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-beb96f7b08a9642dc9d14c8849b750a2
+# Starting compiling Unity.2D.IK.Runtime.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7c4234493d4c54923a1c69b14ec8f361
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7850d40e54f5e463085bc81c8b15d55b
+# Starting compiling Unity.2D.Common.Runtime.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6bcb4239f258840e2a9fe7773956d8dc
+# Starting compiling Unity.2D.Animation.Runtime.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fd6881f87656c4b229ba7db8e28b17d7
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bb4c67df3273c42e6b531a64d765d19e
+# Starting compiling Assembly-CSharp.dll
+/Users/behumble/Documents/Tools/unity/editor/2020.3.26f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2a4f47f1560ff4afd8ad0ae15b7e2586
